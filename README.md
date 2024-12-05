@@ -6,6 +6,10 @@ issue at work:
 1)manual checking would have some issues despite having excel formulas
 2)many people have access to licensing table and would cause typos or accidental deletion/addition
 
+Case 1: 
+Staff has to update new entities 
+Need old excel list to double check
+
 
 for first issue: Code will
 1) Read the file of excel (.csv) or (.xlsx)
