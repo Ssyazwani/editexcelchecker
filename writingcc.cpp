@@ -6,7 +6,6 @@ int main() {
     ofstream myFile("testingwriting.csv");
     
    
-    myFile << "Foo\n";
     myFile << "1\n";
     myFile << "2\n";
     myFile << "3\n";
