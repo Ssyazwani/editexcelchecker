@@ -5,7 +5,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
 public class testingjava{
   public static void main(String[] args) {
     try {
-      File myObj = new File("filename.csv");
+      File myObj = new File("file.csv");
       Scanner myReader = new Scanner(myObj);
       while (myReader.hasNextLine()) {
         String data = myReader.nextLine();
